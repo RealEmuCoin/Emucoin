@@ -1,0 +1,12 @@
+Building Emucoin
+
+See doc/readme-qt.rst for instructions on building Emucoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Emucoin.
+
+See doc/build-*.txt for instructions on building Emucoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Emucoin.
+
+Further build information and documentation is available at
+the official Emucoin website, http://www.Emucoin.org
